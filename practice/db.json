@@ -1,0 +1,108 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+
+  "products": [
+    {
+      "id": 1,
+      "productName": "Product One",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "price": 7800,
+      "discount": 20.90
+    },
+    {
+      "id": 2,
+      "productName": "Product Two",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "price": 9000,
+      "discount": 20.90
+    },
+    {
+      "id": 3,
+      "productName": "Product Three",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "price": 90800,
+      "discount": 20.90
+    },
+    {
+      "id": 4,
+      "productName": "Product Four",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "price": 5800,
+      "discount": 20.90
+    },
+    {
+      "id": 5,
+      "productName": "Product Five",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "price": 77500,
+      "discount": 20.90
+    }
+  ],
+
+  "customers": [
+    {
+      "id": 1,
+      "customerName": "Diljeet Kaur",
+      "qualification": "B.tech",
+      "customerJob": "IT",
+      "customerReview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "customerRating": "3/5"
+    },
+    {
+      "id": 2,
+      "customerName": "Anand Trivedi",
+      "qualification": "B.Sc",
+      "customerJob": "Lecture",
+      "customerReview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "customerRating": "2.5/5"
+    },
+    {
+      "id": 3,
+      "customerName": "Manvitha Das",
+      "qualification": "M.Sc",
+      "customerJob": "Software Engineer",
+      "customerReview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "customerRating": "4/5"
+    },
+    {
+      "id": 4,
+      "customerName": "Sakshi Acharya",
+      "qualification": "B.tech",
+      "customerJob": "IT",
+      "customerReview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "customerRating": "3.5/5"
+    },
+    {
+      "id": 5,
+      "customerName": "Devagna Rai",
+      "qualification": "B.E",
+      "customerJob": "IT",
+      "customerReview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "customerRating": "5/5"
+    },
+    {
+      "id": 6,
+      "customerName": "Smruti Shetty",
+      "qualification": "MBBS",
+      "customerJob": "Doctor",
+      "customerReview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "customerRating": "4.5/5"
+    }
+  ]
+}
